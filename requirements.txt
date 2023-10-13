@@ -6,3 +6,6 @@ awslambdaric==1.2.2
 setuptools~=65.6.3
 boto3~=1.20.47
 jsonschema==4.1.2
+black
+isort
+pyproject-flake8
